@@ -29,7 +29,9 @@
 
 ###
 
-<h3 align="left">I'm Md. Sabir Alam from Kolkata,India<br><br><br>- 📚 I'm currently learning Full Stack Web Development</h3>
+<h3 align="left">I'm Md. Sabir Alam from Kolkata,India
+Proficient Full Stack Web Developer with a strong command of HTML, CSS, JavaScript, React, Redux, TypeScript, MongoDB, Cypress, Jest, Node.js, and Express.js. Possesses a solid foundation in Frontend development and exceptional problem-solving abilities. Demonstrated expertise in building both solo and collaborative projects, showcasing proficiency in version control with GitHub. Ready to contribute technical prowess and teamwork skills to innovative web development endeavors.
+<br><br><br>- 📚 I'm currently learning Full Stack Web Development</h3>
 
 ###
 
